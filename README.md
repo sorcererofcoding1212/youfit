@@ -61,6 +61,7 @@ for the Youfit project.
 ### Backend
 - Node.js
 - Express
+- TypeScript
 - Mongoose
 
 ### Database
