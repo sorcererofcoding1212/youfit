@@ -86,9 +86,7 @@ and user-specific tracking needs.
 ## Repository Structure
 
 The frontend and backend are maintained in **separate repositories** to enable
-independent development and deployment.
-
-This structure reflects real-world production practices and ensures a clear
+independent development and deployment, while also showing a clear
 separation of concerns between the client and server.
 
 This root repository exists to provide documentation, architectural context,
