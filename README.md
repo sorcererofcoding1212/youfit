@@ -22,7 +22,7 @@ for the Youfit project.
 
 ## Links
 
-- Live Application: https://youfit-frontend.netlify.app
+- Live Application: https://youfit.manvir.site
 - Frontend Repository: https://github.com/sorcererofcoding1212/youfit-frontend
 - Backend Repository: https://github.com/sorcererofcoding1212/youfit-backend
 
